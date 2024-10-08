@@ -1,6 +1,6 @@
 ### Hey there! Welcome to my profile 👋
 
-My name is Wassim Aloui ,I'am an IT engineering student who has developed a mature sense of responsibility towards work ,with a strong commitment to self-improvement and passion about web development.
+Full-stack web developer specializing in web development and IT architecture, with a passion for designing, developing, deploying, and optimizing innovative technological solutions.
 
 
 
